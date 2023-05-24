@@ -1,0 +1,26 @@
+F:\mvc\تحويل الى view\تحويل الى view\bin\Debug\net6.0\appsettings.Development.json
+F:\mvc\تحويل الى view\تحويل الى view\bin\Debug\net6.0\appsettings.json
+F:\mvc\تحويل الى view\تحويل الى view\bin\Debug\net6.0\تحويل الى view.staticwebassets.runtime.json
+F:\mvc\تحويل الى view\تحويل الى view\bin\Debug\net6.0\تحويل الى view.exe
+F:\mvc\تحويل الى view\تحويل الى view\bin\Debug\net6.0\تحويل الى view.deps.json
+F:\mvc\تحويل الى view\تحويل الى view\bin\Debug\net6.0\تحويل الى view.runtimeconfig.json
+F:\mvc\تحويل الى view\تحويل الى view\bin\Debug\net6.0\تحويل الى view.dll
+F:\mvc\تحويل الى view\تحويل الى view\bin\Debug\net6.0\تحويل الى view.pdb
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.csproj.AssemblyReference.cache
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.GeneratedMSBuildEditorConfig.editorconfig
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.AssemblyInfoInputs.cache
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.AssemblyInfo.cs
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.csproj.CoreCompileInputs.cache
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.MvcApplicationPartsAssemblyInfo.cache
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.RazorAssemblyInfo.cache
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.RazorAssemblyInfo.cs
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\staticwebassets.build.json
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\staticwebassets.development.json
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\scopedcss\bundle\تحويل الى view.styles.css
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\scopedcss\projectbundle\تحويل الى view.bundle.scp.css
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.dll
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\refint\تحويل الى view.dll
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.pdb
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\تحويل الى view.genruntimeconfig.cache
+F:\mvc\تحويل الى view\تحويل الى view\obj\Debug\net6.0\ref\تحويل الى view.dll
